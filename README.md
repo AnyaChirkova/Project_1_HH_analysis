@@ -1,11 +1,11 @@
 # Проект 1. Анализ вакансий на HH
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/AnyaChirkova/Project_1_HH_analysis/master/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/AnyaChirkova/Project_1_HH_analysis/master/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/AnyaChirkova/Project_1_HH_analysis/master/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/AnyaChirkova/Project_1_HH_analysis/master/README.md#Этапы-работы-над-проектом)  
-[5. Результаты](https://github.com/AnyaChirkova/Project_1_HH_analysis/master/README.md#Результат)    
+[1. Описание проекта](https://github.com/AnyaChirkova/Project_1_HH_analysis/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/AnyaChirkova/Project_1_HH_analysis/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/AnyaChirkova/Project_1_HH_analysis/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/AnyaChirkova/Project_1_HH_analysis/README.md#Этапы-работы-над-проектом)  
+[5. Результаты](https://github.com/AnyaChirkova/Project_1_HH_analysis/README.md#Результат)    
 
 
 ### Описание проекта   
